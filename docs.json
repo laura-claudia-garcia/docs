@@ -90,14 +90,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "login",
+        "href": "https://fusang.co/login"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Website",
+      "href": "https://www.fusang.co"
     }
   },
   "contextual": {
