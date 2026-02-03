@@ -1,7 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
-  "name": "Mintlify Test",
+  "name": "Fusang Support",
+  "description": "Support documentation for Fusang Exchange and Block Tree Ltd.",
   "colors": {
     "primary": "#976948",
     "light": "#d6bd8a",
@@ -22,8 +23,9 @@
           {
             "group": "Client Migration",
             "pages": [
-              "general-migration",
-              "essentials/settings"
+              "migration",
+              "consent-form",
+              "fsc"
             ]
           },
           {
