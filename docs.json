@@ -25,7 +25,9 @@
             "pages": [
               "migration",
               "consent-form",
-              "fsc"
+              "fsc",
+              "account-management",
+              "security-data"
             ]
           },
           {
