@@ -16,20 +16,18 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Client Migration",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "general-migration",
+              "essentials/settings"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Account Registration",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +36,23 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Account Management",
+            "pages": [
+              "ai-tools/cursor",
+              "ai-tools/claude-code",
+              "ai-tools/windsurf"
+            ]
+          },
+          {
+            "group": "Deposit, Withdrawal and Trading",
+            "pages": [
+              "ai-tools/cursor",
+              "ai-tools/claude-code",
+              "ai-tools/windsurf"
+            ]
+          },
+          {
+            "group": "Issuer Listing",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -71,14 +85,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Blog",
+          "href": "https://fusang.co/news",
+          "icon": "newspaper"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Contact us",
+          "href": "https://form.typeform.com/to/Ev2slMyY",
+          "icon": "envelope"
         }
       ]
     }
@@ -90,14 +104,14 @@
   "navbar": {
     "links": [
       {
-        "label": "login",
-        "href": "https://fusang.co/login"
+        "label": "website",
+        "href": "https://www.fusang.co/login"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Website",
-      "href": "https://www.fusang.co"
+      "label": "login",
+      "href": "https://www.fusang.co/login"
     }
   },
   "contextual": {
@@ -114,9 +128,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "youtube": "https://www.youtube.com/@FusangTV",
+      "linkedin": "https://www.linkedin.com/company/fusang/",
+      "website": "https://www.fusang.co/support/client-migration"
     }
   }
 }
