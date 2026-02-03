@@ -39,7 +39,8 @@
             "group": "Account Management",
             "pages": [
               "account-management",
-              "account-change-recovery"
+              "account-change-recovery",
+              "custody-management"
             ]
           },
           {
