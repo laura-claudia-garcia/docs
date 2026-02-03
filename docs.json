@@ -26,25 +26,20 @@
               "migration",
               "consent-form",
               "fsc",
-              "account-management",
               "security-data"
             ]
           },
           {
             "group": "Account Registration",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "account-registration"
             ]
           },
           {
             "group": "Account Management",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "account-management",
+              "account-change-recovery"
             ]
           },
           {
